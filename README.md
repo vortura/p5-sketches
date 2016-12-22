@@ -41,18 +41,28 @@ a simple L-System that simulates algae growth.
 
 * [006-l-system-pythagoras-tree](./006-l-system-pythagoras-tree/)
 
+L-System to generate a Pythagoras Tree.
+
 ## Kantor Set
 
 * [007-cantor-set](./007-cantor-set/)
+
+L-System to generate a Kantor set.
 
 ## Koch Curve
 
 * [008-koch-curve](./008-koch-curve/)
 
+L-System to generate a Koch set.
+
 ## Sierpinski Triangle
 
 * [009-sierpinski-triangle](./009-sierpinski-triangle/)
 
+L-System to generate a Sierpinski triangle.
+
 ## Sierpinski Arrowhead
 
 * [010-sierpinski-arrowhead](./010-sierpinski-arrowhead/)
+
+Approximate a Sierpinski triangle with a Sierpinski arrowhead curve L-System.
