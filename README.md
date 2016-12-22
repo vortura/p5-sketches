@@ -23,4 +23,36 @@ structure.
 Create crazy spirograph-like patterns by bouncing a coloured ball around the
 screen, with multiple copies rotated around the centre of the screen.
 
+## Random Walk
 
+* [004-random-walk](./004-random-walk/)
+
+Trace the random walk of 10 particles.
+
+## Lindenmayer System Test
+
+* [005-l-system-1](./005-l-system-1/)
+
+L-system test sketch. OK, so there's not much to look at with this one. If you
+open the javascript console you can see the output of several iterations of
+a simple L-System that simulates algae growth.
+
+## Pythagoras Tree
+
+* [006-l-system-pythagoras-tree](./006-l-system-pythagoras-tree/)
+
+## Kantor Set
+
+* [007-cantor-set](./007-cantor-set/)
+
+## Koch Curve
+
+* [008-koch-curve](./008-koch-curve/)
+
+## Sierpinski Triangle
+
+* [009-sierpinski-triangle](./009-sierpinski-triangle/)
+
+## Sierpinski Arrowhead
+
+* [010-sierpinski-arrowhead](./010-sierpinski-arrowhead/)
