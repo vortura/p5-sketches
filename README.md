@@ -1,5 +1,8 @@
 # p5 Sketches
 
+A bunch of p5.js sketches for fun. Browse the repository at
+https://vortura.github.io/p5-sketches/.
+
 ## 001
 
 * [001](./001/)
