@@ -69,3 +69,10 @@ L-System to generate a Sierpinski triangle.
 * [010-sierpinski-arrowhead](./010-sierpinski-arrowhead/)
 
 Approximate a Sierpinski triangle with a Sierpinski arrowhead curve L-System.
+
+## Dragon Curve
+
+* [011-dragon-curve](./011-dragon-curve/)
+
+Another L-System. This one animates successive iterations of a fractal Dragon
+Curve.
